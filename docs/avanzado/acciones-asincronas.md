@@ -38,7 +38,7 @@ O puedes definir diference tipos para cada uno:
 { type: 'FETCH_POSTS_SUCCESS', response: { ... } }
 ```
 
-Elegir si deseas utilizar un solo tipo de acción o varios tipos de acciones, está a tu discreción. Es una convención que usted necesita discutir con su equipo de trabajo. Múltiples tipos dejan menos espacio para un error, pero esto no es un problema si se generan creadores de acciones y reductores con una librería auxiliar como [redux-actions](https://github.com/acdlite/redux-actions).
+Elegir si deseas utilizar un solo tipo de acción o varios tipos de acciones, es a tu elección. Es una convención que usted necesita discutir con su equipo de trabajo. Múltiples tipos dejan menos espacio para un error, pero esto no es un problema si se generan creadores de acciones y reductores con una librería auxiliar como [redux-actions](https://github.com/acdlite/redux-actions).
 
 Cualquiera que sea la convención que elijas, mantente con ella durante toda la aplicación.
 
